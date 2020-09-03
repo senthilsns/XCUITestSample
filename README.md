@@ -1,0 +1,2 @@
+# XCUITestSample
+Automation Example
